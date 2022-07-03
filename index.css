@@ -6,9 +6,14 @@ body, html {
     height: 100vh;
     background: rgb(107, 23, 23);
     overflow: hidden;
+    text-decoration: none;
+    color: white;
 }
 
-
+a {
+    color: white;
+    text-decoration: none;
+}
 
 .hero {
     text-align: center;
